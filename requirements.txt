@@ -9,7 +9,7 @@ click==6.7
 configparser==3.5.0
 contextlib2==0.6.0
 decorator==4.4.0
-ecdsa==0.13
+ecdsa==0.13.3
 flasgger==0.9.3
 Flask==1.0.2
 funcsigs==1.0.2
