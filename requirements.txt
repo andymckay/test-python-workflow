@@ -34,7 +34,7 @@ pathlib2==2.3.5
 pep8==1.7.1
 pluggy==0.13.0
 protobuf==3.7.1
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.4
 pycodestyle==2.4.0
 pylint==1.9.3
